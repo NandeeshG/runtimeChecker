@@ -38,6 +38,8 @@ As an example,
 ./a.out ./p.out input.txt output.txt
 ```
 This gives the output -
+![Image of Terminal Output](https://github.com/NandeeshG/runtimeChecker/example_image.png)
+
 
 ### This will do the following
 - Run your program using `input.txt` as `stdin`
