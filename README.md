@@ -48,4 +48,4 @@ This gives the output -
 **Note, write correct file paths (eg, use ../ to go up) if the directory for any file is different**
 
 ### Thanks for using !
-Made by Nandeesh Gupta, with the help of StackOverflow ofcours :)
+Made by Nandeesh Gupta, with the help of StackOverflow ofcourse :)
