@@ -40,9 +40,9 @@ As an example,
 This gives the output -
 
 ### This will do the following
-- Run your program using `input.txt` as stdin
-- Put the output from stdout into a new file `output.txt`
-- Display the error from stderr stream in terminal.
+- Run your program using `input.txt` as `stdin`
+- Put the output from `stdout` into a new file `output.txt`
+- Display the error from `stderr` stream in terminal.
 - Calculate and display running time of your program.
 
 **Note, write correct file paths (eg, use ../ to go up) if the directory for any file is different**
