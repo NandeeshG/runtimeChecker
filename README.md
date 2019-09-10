@@ -27,13 +27,13 @@ Run the following command in terminal.
 ```
 ./a.out ./p.out input.txt output.txt
 ```
-**Note, write correct file paths (eg, use ../ to go up) if the directory for any file is different**
 
 ### This will do the following
 - Run your program using `input.txt` as stdin
 - Put the output from stdout into a new file `output.txt`
 - Display the error from stderr stream in terminal.
 - Calculate and display running time of your program.
+**Note, write correct file paths (eg, use ../ to go up) if the directory for any file is different**
 
 ### Thanks for using !
 Made by Nandeesh Gupta, with the help of StackOverflow ofcourse.
