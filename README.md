@@ -28,7 +28,7 @@ g++ example_program.cpp -o p.out
 Make the input file with input in it, and save in same directory. Name it input.txt
 As an example I have made input.txt also for example_program.cpp, you can change its contents after downloading on your machine if you want.
 
-### 5. check runtime!
+### 5. Check runtime!
 Run the following command in terminal.
 ```
 ./a.out ./<exec_name> input.txt output.txt
