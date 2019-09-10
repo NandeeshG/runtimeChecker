@@ -24,9 +24,9 @@ Make the input file with input in it, and save in same directory. Name it input.
 
 ### 5. check time!
 Run the following command in terminal.
-'''
+```
 ./a.out ./p.out input.txt output.txt
-'''
+```
 **Note, write correct file paths (eg, use ../ to go up) if the directory for any file is different**
 
 ### This will do the following
