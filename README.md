@@ -52,3 +52,5 @@ This gives the output -
 
 ### Thanks for using !
 Made by Nandeesh Gupta, with the help of StackOverflow ofcourse :)
+
+If you want to add something, Fork and make a PR, and suggestions are always welcome.
