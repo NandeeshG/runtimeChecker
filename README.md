@@ -18,15 +18,26 @@ If your program is in c++, use g++ command
 ```
 g++ <your_program_name> -o <exec_name>
 ```
+As an example, I have included the file example_program.cpp which finds fib(n).
+We compile it as follows
+```
+g++ example_program.cpp -o p.out
+```
 
 ### 4. Make the input file
 Make the input file with input in it, and save in same directory. Name it input.txt
+As an example I have made input.txt also for example_program.cpp, you can change its contents after downloading on your machine if you want.
 
-### 5. check time!
+### 5. check runtime!
 Run the following command in terminal.
 ```
 ./a.out ./<exec_name> input.txt output.txt
 ```
+As an example,
+```
+./a.out ./p.out input.txt output.txt
+```
+This gives the output -
 
 ### This will do the following
 - Run your program using `input.txt` as stdin

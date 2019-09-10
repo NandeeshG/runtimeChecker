@@ -28,7 +28,7 @@ int main(int argc, char *argv[]) {
   pass[len+2] = ' ';
   pass[len+3] = '\0';
   strcat(pass, argv[3]);
-  cout<<pass;
+  //cout<<pass;
 
   auto start_time = std::chrono::high_resolution_clock::now();
   system(pass);
