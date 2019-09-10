@@ -14,9 +14,9 @@ g++ runtimeChecker.cpp -o a.out
 ```
 
 ### 3. Compile your program, make its executable.
-If your program is using c++, use g++ command
+If your program is in c++, use g++ command
 ```
-g++ <your_program_name> -o p.out
+g++ <your_program_name> -o <exec_name>
 ```
 
 ### 4. Make the input file
@@ -25,7 +25,7 @@ Make the input file with input in it, and save in same directory. Name it input.
 ### 5. check time!
 Run the following command in terminal.
 ```
-./a.out ./p.out input.txt output.txt
+./a.out ./<exec_name> input.txt output.txt
 ```
 
 ### This will do the following
