@@ -33,6 +33,7 @@ Run the following command in terminal.
 - Put the output from stdout into a new file `output.txt`
 - Display the error from stderr stream in terminal.
 - Calculate and display running time of your program.
+
 **Note, write correct file paths (eg, use ../ to go up) if the directory for any file is different**
 
 ### Thanks for using !
