@@ -42,11 +42,11 @@ This gives the output -
 ![Image of Terminal Output](https://github.com/NandeeshG/runtimeChecker/blob/master/example_image.png?raw=true)
 
 
-### This will do the following
-- Run your program using `input.txt` as `stdin`
-- Put the output from `stdout` into a new file `output.txt`
-- Display the error from `stderr` stream in terminal.
-- Calculate and display running time of your program.
+### At the end, runtimeChecker helps you in following ways
+- Runs your program using `input.txt` as `stdin`
+- Puts the output from `stdout` into a new file `output.txt`
+- Displays the error from `stderr` stream in terminal.
+- Calculates and displays running time of your program.
 
 **Note, write correct file paths (eg, use ../ to go up) if the directory for any file is different**
 
