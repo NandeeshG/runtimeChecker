@@ -18,7 +18,7 @@ If your program is in c++, use g++ command
 ```
 g++ <your_program_name> -o <exec_name>
 ```
-As an example, I have included the file example_program.cpp which finds fib(n).
+As an example, I have included the file `example_program.cpp` which finds fibonacci(n).
 We compile it as follows
 ```
 g++ example_program.cpp -o p.out
